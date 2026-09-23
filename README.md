@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/naufal-rama-octantyo/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-6C3FC5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:naufalramaoct@gmail.com">
+<a href="mailto:naufalramaoctantyo@student.telkomuniversity.ac.id">
 <img src="https://img.shields.io/badge/Email-Say%20Hi-8E54E9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/Pkcs1">
